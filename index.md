@@ -9,10 +9,17 @@ title: Davis Rattanavijai
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am pursuing a Bachelors of Science in Mechanical Engineering and a minor in Electrical and Computer Engineering. Testing Testing
+My name is {{ site.name }}, and I’m a second-year undergraduate at Cornell University pursuing a Bachelor of Science in Mechanical Engineering with a minor in Electrical and Computer Engineering. I’m passionate about engineering challenges across a range of industries, particularly aerospace and automotive.
 
-[your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+At Cornell, I’m a member of the Formula SAE Racing Team, where I collaborate with over 60 engineers to design, build, and race a fully electric vehicle. I currently work on the Suspension subteam and am working toward a larger role in Vehicle Dynamics. My hands-on experience here has been invaluable, combining technical design with iterative testing under real-world constraints.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I come from a strong math and physics background—competing in math modeling competitions throughout high school—and I’ve always been driven by curiosity and a love for building. Whether it was fixing my IKEA couch, constructing a six-foot boat out of cardboard, or modeling ski GPS data in MATLAB, I enjoy solving problems in creative and practical ways.
+
+I also bring a solid foundation in business. In high school, I led fundraising efforts to secure over $10,000 for our robotics team, worked at a bank, and developed a personal interest in financial markets.
+
+Outside of academics and engineering, I love playing soccer and steering 40-foot-long dragon boats. I'm inspired by bold ideas and ambitious goals. As JFK once said: “We choose to go to the moon in this decade and do the other things, not because they are easy, but because they are hard.”
+
+The future of humanity is exciting, and I’m driven to help shape it through engineering.
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
