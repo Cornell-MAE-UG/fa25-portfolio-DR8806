@@ -8,7 +8,7 @@ permalink: /cv/
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [dr653@cornell.edu](mailto:dr653@cornell.edu) | | | **Phone:** +1 617 415 6918
 
 ---
 
@@ -19,25 +19,25 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 
 #### Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  *Bachelor of Science in Mechanical Engineering, Minor in Electrical and Computer Engineering*  
+  GPA: 3.85/4.0 | Graduation: May 2028
 
-- **[High School Name]**  
+- **Newton North High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: [Jun, 2024]
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Inventor  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** Mill, Lathe, 3D Printing (Basic)  
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
+- **Jig Plate**:  
+  *Welding Jig for Suspension Links*  
   - Key Achievement 1  
   - Key Achievement 2  
 
@@ -49,7 +49,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
+- **Cornell Formula SAE Racing - Suspension Team Member and Purchasing Coordinator**  
   [Month, Year] - [Month, Year]  
   - Responsibility 1  
   - Responsibility 2  
