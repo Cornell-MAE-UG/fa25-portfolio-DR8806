@@ -6,7 +6,7 @@ title: Davis Rattanavijai
 ## About Me
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/dr653_headshot.png" | relative_url }}){: class="profile-image"}
 
  
 My name is {{ site.name }}, and I’m a second-year undergraduate at Cornell University pursuing a Bachelor of Science in Mechanical Engineering with a minor in Electrical and Computer Engineering. I’m passionate about engineering challenges across a range of industries, particularly aerospace and automotive.
