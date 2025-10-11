@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Lift Mechanism Design
+title: Radio Rendering
 description: A Design of Lifting Mechanism to Optimize Weight and Height
 technologies: [MATLAB]
 image: /assets/images/Lift_Image.png
