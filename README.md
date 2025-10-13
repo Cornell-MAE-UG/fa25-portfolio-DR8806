@@ -67,7 +67,7 @@ No need to keep the `< >` brackets. They are just there to indicate placeholders
 - `assets/images/profile-pic.jpg`: Replace the placeholder with a portrait of yourself.
 
 ### Projects
-- In the `_projects` folder: Use the provided example pages (e.g., `2022-trig-analysis.md`) to build one page per project.
+- In the `_projects` folder: Use the provided example pages (e.g., `cardboard-boat.md`) to build one page per project.
 - Each project has a main (square) project image, set in the page's top matter by the `image` variable.
 - All images are in `assets/images`. Delete the ones you don't need.
 - It is useful to name the page with a leading date. This will determine the order of projects on your main portfolio gallery.
