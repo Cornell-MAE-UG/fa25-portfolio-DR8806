@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Math Modeling Papers
+description: Math Modeling Papers from competitions
+technologies: [Python, R, MATLAB, Excel]
 image: /assets/images/math-modeling-papers/math-modeling-shell.jpg
 ---
 
