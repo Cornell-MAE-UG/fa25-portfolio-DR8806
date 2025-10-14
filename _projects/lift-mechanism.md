@@ -17,4 +17,4 @@ Assume all the supports and bar/actuator are rigid.
 
 After reading the prompt, I knew this was an optimization problem. First, I drew out the situation based on the given parameters and assigned variables. After doing geometry, there is two things to maximize: the height and the weight. What follows will be equations built on Statics intuition and mathematics to solve the optimization equation. 
 
-![Shaded rendering of earlier version]({{ "/assets/images/HW4_Sketch.png" | relative_url }})
+![Shaded rendering of earlier version]({{ "/assets/images/HW4_Sketch.png" | relative_url }}){: width="400px"}
