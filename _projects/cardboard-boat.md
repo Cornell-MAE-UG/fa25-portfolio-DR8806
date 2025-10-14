@@ -1,25 +1,48 @@
 ---
 layout: project
-title: Analysis of Functions
-description: Class project with Graphs
-technologies: [MATLAB, python]
-image: /assets/images/function-graph.png
+title: Cardboard Dragon Boat
+description: Cardboard Dragon Boat 15% Replica
+technologies: [CAD, Hand tools]
+image: /assets/images/dragonboatfinal.png
 ---
 
 
-As part of a class project...Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+During the winter of 2024, I built a 15% scale replica of a dragon boat. The average 20-person dragon boat is around 12.49 meters in length, so the replica was 1.86 m (6.1 feet). 
 
+### Project Gallery
 
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+<div class="image-gallery">
+  <img src="/assets/images/3dprint.jpg" alt="3D print">
+  <img src="/assets/images/cardboard1.jpg" alt="Cardboard stage 1">
+  <img src="/assets/images/cardboard2.jpg" alt="Cardboard stage 2">
+  <img src="/assets/images/cardboard3.jpg" alt="Cardboard stage 3">
+  <img src="/assets/images/cardboard4.jpg" alt="Cardboard stage 4">
+  <img src="/assets/images/cardboard5.jpg" alt="Cardboard stage 5">
+  <img src="/assets/images/cardboard6.jpg" alt="Cardboard stage 6">
+  <img src="/assets/images/cardboard7.JPG" alt="Cardboard stage 7">
+  <img src="/assets/images/cardboatboatfinal.jpg" alt="Final cardboard boat">
+  <img src="/assets/images/dragonboatsteer.png" alt="Steering dragon boat">
+  <img src="/assets/images/dragonboattrace1.png" alt="Dragon boat race 1">
+  <img src="/assets/images/dragonboattrace2.jpg" alt="Dragon boat race 2">
+  <img src="/assets/images/kkcs1.jpg" alt="KKCS event 1">
+  <img src="/assets/images/kkcs2.jpg" alt="KKCS event 2">
+</div>
 
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
-
+<style>
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 10px;
+  margin-top: 20px;
+}
+.image-gallery img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: transform 0.2s ease;
+}
+.image-gallery img:hover {
+  transform: scale(1.03);
+}
+</style>
 
