@@ -2,8 +2,8 @@
 layout: project
 title: Math Modeling Papers
 description: Math Modeling Papers from competitions
-technologies: [Python, R, MATLAB, Excel]
-image: /assets/images/images/math-modeling-shell.jpg
+technologies: [Python, R, MATLAB, Excel, LaTeX]
+image: /assets/images/math-modeling-shell.jpg
 ---
 
 These are my math modeling papers that I worked on throughout high school, competing in 3 different components a total of 7 times: [*High School Mathematical Contest in Modeling (HiMCM)*](https://www.comap.com/contests/himcm-midmcm) x3, [*International Mathematical Modeling Contest (IMMC)*](https://www.immchallenge.org/) x2, [*Modeling the Future Challenge (MTFC)*](https://www.mtfchallenge.org/). Each competition had varied amount of time (HiMCM: 2 weeks, IMMC: 5 days, MTFC: 3 months), but had aligning goals where we would create mathematical models for real-world situations to gain useful insight. 
@@ -23,7 +23,7 @@ Each paper below is linked and includes a brief summary, math/code used, results
 
 ---
 
-- **MTFC2023 – Colorado Paper (3rd Place Win)**  
+- **MTFC2023 – Lake Mead Paper (3rd Place Win)**  
   **Paper**: December 15, 2024 (approx) to March 3, 2024 — [Download PDF]({{ "/assets/math-modeling-papers/MTFC2023_Colorado_River_Paper.pdf" | relative_url }})  
   **Summary**: Built a forecasting model to assess and mitigate the decline of hydroelectric power at Hoover Dam due to falling Lake Mead water levels. Used symbolic regression to derive water volume relationships and Facebook Prophet to project trends through 2030—predicting a 29.2% volume drop. Conducted sensitivity analysis and economic risk assessment, quantifying up to $440M in potential energy replacement costs, and proposed policy-driven mitigation strategies based on key environmental and consumption variables.  
   **Result**: 3rd Place ($10,000 Reward). Top 3 of 268 teams: [Weblink Results1](https://www.mtfchallenge.org/awards/), [Weblink Results2](https://www.mtfchallenge.org/unveiling-the-2023-2024-modeling-the-future-challenge-finalists/)  
