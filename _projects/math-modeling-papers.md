@@ -6,7 +6,7 @@ technologies: [Python, R, MATLAB, Excel, LaTeX]
 image: /assets/images/math-modeling-shell.jpg
 ---
 
-These are my math modeling papers that I worked on throughout high school, competing in 3 different components a total of 7 times: [*High School Mathematical Contest in Modeling (HiMCM)*](https://www.comap.com/contests/himcm-midmcm) x3, [*International Mathematical Modeling Contest (IMMC)*](https://www.immchallenge.org/) x2, [*Modeling the Future Challenge (MTFC)*](https://www.mtfchallenge.org/). Each competition had varied amount of time (HiMCM: 2 weeks, IMMC: 5 days, MTFC: 3 months), but had aligning goals where we would create mathematical models for real-world situations to gain useful insight. 
+These are my math modeling papers that I worked on throughout high school, competing in 3 different components a total of 7 times: [*High School Mathematical Contest in Modeling (HiMCM)*](https://www.comap.com/contests/himcm-midmcm) x3, [*International Mathematical Modeling Contest (IMMC)*](https://www.immchallenge.org/) x2, [*Modeling the Future Challenge (MTFC)*](https://www.mtfchallenge.org/) x2. Each competition had varied amount of time (HiMCM: 2 weeks, IMMC: 5 days, MTFC: 3 months), but had aligning goals where we would create mathematical models for real-world situations to gain useful insight. 
 
 For example, our HiMCM2023 finalist paper was on a mathematical model built using Lagrangian Multiplier logic to optimize the number of electric buses a given city (e.g., Boston, Philly, Detroit) should buy. The models took into account real-world variables, tested with real data, and included algorithms written in code.
 

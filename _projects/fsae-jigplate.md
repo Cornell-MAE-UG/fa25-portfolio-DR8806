@@ -3,7 +3,7 @@ layout: project
 title: Cornell FSAE Racing Jig Plate
 description: Welding Jig for Suspension Links on Cornell FSAE Racing Car
 technologies: [Autodesk Inventor (CAD)]
-image: /assets/images/fsae-jigplate.png
+image: /assets/images/fsae-jigplate/fsae-jigplate.png
 ---
 
 I am on Cornell University's Formula SAE Racing team. Our team competes in the annual [Formula SAE EV Competition](https://www.fsaeonline.com/); learn more about our team at the [Cornell Racing website](https://cornellracing.org/). For our 2025-2026 race car, I am designing the *Jig Plate* for the suspension subteam. I will talk about that part here. (Note, as of this being written, design is a draft and not finalized).
@@ -35,5 +35,5 @@ The goal for ARG26 was optimization. While there are many ways to build a functi
 ---
 
 **CAD Rendering of an Early Version:**  
-![Shaded rendering of earlier version]({{ "/assets/images/fsae-jigplate.png" | relative_url }}){: width="400px"}
+![Shaded rendering of earlier version]({{ "/assets/images/fsae-jigplate/fsae-jigplate.png" | relative_url }}){: width="400px"}
 
