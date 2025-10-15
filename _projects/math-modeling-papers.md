@@ -6,12 +6,14 @@ technologies: [Python, R, MATLAB, Excel]
 image: /assets/images/images/math-modeling-shell.jpg
 ---
 
-These are my math modeling papers that I worked on throughout high school, competing in 3 different components a total of 7 times: [*High School Mathematical Contest in Modeling* (HiMCM)*](https://www.comap.com/contests/himcm-midmcm) x3, [*International Mathematical Modeling Contest (IMMC)*](https://www.immchallenge.org/) x2, [*Modeling the Future Challenge (MTFC)*](https://www.mtfchallenge.org/). Each competition had varied amount of time (HIMCM: 2 weeks, IMMC: 5 days, MTFC: 3 months) but had aligning goals where we would create mathematical models for real world situations to gain useful insight. For example, our HIMCM2023 finalist paper was on a mathematical model built by Lagrangian Multiplier logic to optimize the number of electric busses a given city (e.g. Boston, Philly, Detroit) should buy. The models took into account real world variables, tested with real data, and wrote algorithms using code.  
+These are my math modeling papers that I worked on throughout high school, competing in 3 different components a total of 7 times: [*High School Mathematical Contest in Modeling (HiMCM)*](https://www.comap.com/contests/himcm-midmcm) x3, [*International Mathematical Modeling Contest (IMMC)*](https://www.immchallenge.org/) x2, [*Modeling the Future Challenge (MTFC)*](https://www.mtfchallenge.org/). Each competition had varied amount of time (HiMCM: 2 weeks, IMMC: 5 days, MTFC: 3 months), but had aligning goals where we would create mathematical models for real-world situations to gain useful insight. 
 
-Each paper below is linked and includes a brief summary, math/code used, results, and co-authors. The couple notable paper submissions are **HiMCM2023**, **IMMC2024**, and **MTFC2023**. Note, I was a lead on some of these projects. 
+For example, our HiMCM2023 finalist paper was on a mathematical model built using Lagrangian Multiplier logic to optimize the number of electric buses a given city (e.g., Boston, Philly, Detroit) should buy. The models took into account real-world variables, tested with real data, and included algorithms written in code.
 
+Each paper below is linked and includes a brief summary, math/code used, results, and co-authors. The couple notable paper submissions are **HiMCM2023**, **IMMC2024**, and **MTFC2023**. Note, I was a lead on some of these projects.
 
--- 
+--- 
+
 - **IMMC2024 USA Regional – Pets Paper**  
   **Paper**: April 12, 2024 to April 16, 2024 — [Download PDF]({{ "/assets/math-modeling-papers/IMMC2024_Pets_Paper.pdf" | relative_url }})  
   **Summary**: Developed the Household Readiness Model for Pets (particularly Cats), a mathematical framework that evaluates a household’s suitability for cat ownership by balancing human and pet well-being. The model uses questionnaire data and vector comparison techniques—including a modified cosine similarity and vector projection model—to assess compatibility based on financial, environmental, and personal commitment factors.  
@@ -67,7 +69,7 @@ Each paper below is linked and includes a brief summary, math/code used, results
 ---
 
 - **HiMCM2021 – Electric Batteries Paper**  
-  **Paper**: February 20xx to March 20xx — [Download PDF]({{ "/assets/math-modeling-papers/HIMCM2021_Electric_Batteries_Paper.pdf" | relative_url }})  
+  **Paper**: November 3, 2021 to November 16, 2021 — [Download PDF]({{ "/assets/math-modeling-papers/HIMCM2021_Electric_Batteries_Paper.pdf" | relative_url }})  
   **Summary**: Developed a multi-layered battery evaluation model to identify the most effective off-grid power solutions for a 1600 ft² home, comparing LFP, AGM, and lead-acid batteries based on capacity, efficiency, and power ratings. Cataloged typical household appliance energy usage and created a simulation to match battery performance to daily load requirements. Identified the Tesla Powerwall 2 as the optimal solution due to its high capacity, fast charge rate, and deep-cycle capability. Also explored emerging technologies like cement-based batteries, concluding their current energy density is insufficient for residential use.  
   **Result**: Meritorious [PDF Results](https://www.contest.comap.com/highschool/contests/himcm/2021_HiMCM_Results.pdf)  
   **Team**: Davis Rattanavijai (NNHS'24), Yuhan Wu (NNHS '24), Youcef Chahboun (NNHS '24), Tsubasa Tamura (NNHS '24), Coach: Mrs. Michele MacDonald (Ms. Michele Widener)  
