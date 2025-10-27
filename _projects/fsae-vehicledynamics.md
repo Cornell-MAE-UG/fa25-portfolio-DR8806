@@ -6,3 +6,4 @@ technologies: [None now]
 image: /assets/images/.jpg
 ---
 
+Reading literature: Tune to Win

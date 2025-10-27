@@ -32,6 +32,8 @@ The goal for ARG26 was optimization. While there are many ways to build a functi
 - Applied **geometry and math** to solve spatial design problems  
 - Strengthened **technical communication** through design reviews and documentation
 
+Learned a lot about threading and bolts. 
+
 ---
 
 **CAD Rendering of an Early Version:**  
