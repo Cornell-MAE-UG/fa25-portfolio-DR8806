@@ -9,4 +9,9 @@ image: /assets/images/Lift_Image.png
 Test Test Test
 
 
-<embed src="/assets/math-modeling-papers/HiMCM2023_E_Bus_Paper.pdf" type="application/pdf" width="100%" height="600px" />
+<iframe 
+    src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/math-modeling-papers/HiMCM2023_E_Bus_Paper.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border:none;">
+</iframe>
