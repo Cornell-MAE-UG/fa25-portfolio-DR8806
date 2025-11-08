@@ -51,7 +51,9 @@ Drafts
   <img src="{{ '/assets/images/fsae-suspension/image16.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image19.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image20.png' | relative_url }}" width="200px">
-  <img src="{{ '/assets/images/fsae-suspension/image22.png' | relative_url }}" width="200px">
+  <img src="{{ '/assets/images/fsae-suspension/image22.png' | relative_url }}" width="200px">   
+  <img src="{{ '/assets/images/fsae-suspension/jigplate-sketches.png' | relative_url }}" width="200px">
+
 
 </div>
 

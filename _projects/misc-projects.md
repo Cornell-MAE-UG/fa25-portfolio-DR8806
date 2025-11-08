@@ -8,16 +8,6 @@ image: /assets/images/misc-project/chalkholder-actual.jpg
 
 
 These are miscellaneous projets that I have worked on over the years. 
-
-
-
-
-
-
-
-
-
-
 ---
 
 **3D Printed Chalk Holder**
