@@ -1,10 +1,10 @@
 ---
 layout: project
-title: Math Modeling Papers
+title: Other Papers
 description: Math Modeling Papers from competitions
 technologies: [Python, R, MATLAB, Excel, LaTeX]
 image: /assets/images/math-modeling-shell.jpg
-category: "Other Papers"
+category: "Math Model Papers"
 order: 4
 ---
 
