@@ -4,7 +4,7 @@ title: Pet fit in Household Model
 description: Optimization of Electric Bus Purchases by Metropolitian Cities
 technologies: [Python, R]
 image: /assets/
-category: "Personal Projects"
+category: "Math Model Papers"
 order: 3
 ---
 

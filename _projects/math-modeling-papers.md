@@ -4,8 +4,8 @@ title: Math Modeling Papers
 description: Math Modeling Papers from competitions
 technologies: [Python, R, MATLAB, Excel, LaTeX]
 image: /assets/images/math-modeling-shell.jpg
-category: "Math Model Papers"
-order: 2
+category: "Other Papers"
+order: 4
 ---
 
 These are my math modeling papers that I worked on throughout high school, competing in 3 different components a total of 7 times: [*High School Mathematical Contest in Modeling (HiMCM)*](https://www.comap.com/contests/himcm-midmcm) x3, [*International Mathematical Modeling Contest (IMMC)*](https://www.immchallenge.org/) x2, [*Modeling the Future Challenge (MTFC)*](https://www.mtfchallenge.org/) x2. Each competition had varied amount of time (HiMCM: 2 weeks, IMMC: 5 days, MTFC: 3 months), but had aligning goals where we would create mathematical models for real-world situations to gain useful insight. 
