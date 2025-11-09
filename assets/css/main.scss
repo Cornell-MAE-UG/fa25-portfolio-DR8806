@@ -8,3 +8,64 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+/* ===== Projects Page Styling ===== */
+
+.projects-container {
+    max-width: 800px;
+    margin: 3rem auto;
+    padding: 0 1rem;
+  }
+  
+  /* Category section styling */
+  .category-section {
+    border-left: 5px solid #ccc;
+    padding-left: 1.5rem;
+    margin-bottom: 3rem;
+  }
+  
+  .category-section h2 {
+    font-family: 'Merriweather', serif;
+    font-weight: 700;
+    font-size: 1.75rem;
+    color: #2e2f36;
+    margin-bottom: 1rem;
+  }
+  
+  /* Project list styling */
+  .project-list {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  .project-list li {
+    margin: 0.5rem 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+  }
+  
+  .project-list a {
+    text-decoration: none;
+    color: #1f7ac6;
+    font-weight: 500;
+    transition: color 0.25s ease, padding-left 0.25s ease;
+  }
+  
+  .project-list a:hover {
+    color: #0d4a94;
+    padding-left: 4px;
+  }
+  
+  /* Subtle category color accents */
+  .math-section {
+    border-color: #3b82f6; // blue
+  }
+  
+  .fsae-section {
+    border-color: #16a34a; // green
+  }
+  
+  .personal-section {
+    border-color: #f59e0b; // amber
+  }
+  

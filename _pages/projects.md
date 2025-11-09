@@ -4,51 +4,36 @@ title: Davis Rattanavijai - Portfolio
 permalink: /projects/
 ---
 
-<div class="gallery-container">
+<div class="projects-container">
 
-  <!-- Math Modeling Papers -->
-  <div class="category-block math-block">
-    <h2 class="category-title">Math Modeling Papers</h2>
-    <div class="project-gallery">
+  <div class="category-section math-section">
+    <h2>Math Modeling Papers</h2>
+    <ul class="project-list">
       {% assign math_projects = site.projects | where: "category", "Math Model Papers" | sort: "order" %}
       {% for project in math_projects %}
-        <div class="gallery-item">
-          <a href="{{ project.url | relative_url }}">
-            <h3>{{ project.title }}</h3>
-          </a>
-        </div>
+        <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
       {% endfor %}
-    </div>
+    </ul>
   </div>
 
-  <!-- Cornell FSAE -->
-  <div class="category-block fsae-block">
-    <h2 class="category-title">Cornell FSAE</h2>
-    <div class="project-gallery">
+  <div class="category-section fsae-section">
+    <h2>Cornell FSAE</h2>
+    <ul class="project-list">
       {% assign cornell_projects = site.projects | where: "category", "Cornell FSAE" | sort: "order" %}
       {% for project in cornell_projects %}
-        <div class="gallery-item">
-          <a href="{{ project.url | relative_url }}">
-            <h3>{{ project.title }}</h3>
-          </a>
-        </div>
+        <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
       {% endfor %}
-    </div>
+    </ul>
   </div>
 
-  <!-- Personal Projects -->
-  <div class="category-block personal-block">
-    <h2 class="category-title">Personal Projects</h2>
-    <div class="project-gallery">
+  <div class="category-section personal-section">
+    <h2>Personal Projects</h2>
+    <ul class="project-list">
       {% assign personal_projects = site.projects | where: "category", "Personal Projects" | sort: "order" %}
       {% for project in personal_projects %}
-        <div class="gallery-item">
-          <a href="{{ project.url | relative_url }}">
-            <h3>{{ project.title }}</h3>
-          </a>
-        </div>
+        <li><a href="{{ project.url | relative_url }}">{{ project.title }}</a></li>
       {% endfor %}
-    </div>
+    </ul>
   </div>
 
 </div>
