@@ -19,10 +19,10 @@ For the 2023 High School Mathematical Contest in Modeling, my team’s finalist-
     style="border:none;">
 </iframe>
 
-## Code Sample
+### Code Sample
 
 ```matlab
-function [c,ceq] = distancenonlinconDetroit(x)
+
     C_a = -8.091*10^(-3); %degree 2 coeff of number of visits;
     C_b = 7.089*10^1; %degree 1 coeff of number of visits
     C_c = 6.959*10^3; %intercept of number of visit
