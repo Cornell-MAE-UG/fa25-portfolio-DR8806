@@ -4,6 +4,8 @@ title: Cornell FSAE Racing Jig Plate
 description: Welding Jig for Suspension Links on Cornell FSAE Racing Car
 technologies: [Autodesk Inventor (CAD)]
 image: /assets/images/fsae-jigplate/fsae-jigplate.png
+category: "Cornell FSAE"
+order: 1
 ---
 
 I am on Cornell University's Formula SAE Racing team. Our team competes in the annual [Formula SAE EV Competition](https://www.fsaeonline.com/); learn more about our team at the [Cornell Racing website](https://cornellracing.org/). For our 2025-2026 race car, I am designing the *Jig Plate* for the suspension subteam. I will talk about that part here.

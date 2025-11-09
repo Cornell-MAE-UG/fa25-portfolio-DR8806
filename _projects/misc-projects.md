@@ -4,6 +4,8 @@ title: Misc Projects
 description: Misc Projects
 technologies: [TBD]
 image: /assets/images/misc-project/chalkholder-actual.jpg
+category: "Personal Projects"
+order: 2
 ---
 
 

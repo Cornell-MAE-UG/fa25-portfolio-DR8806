@@ -4,6 +4,8 @@ title: FSAE Vehicle Dynamics
 description: Documentation of personal journal with Vehicle Dynamics for in Formula SAE 
 technologies: []
 image: /assets/images/.jpg
+category: "Cornell FSAE"
+order: 2
 ---
 
 ![ARG25 Race Car]({{ "/assets/images/cornell-racing-pic.png" | relative_url }}){: width="400px"}

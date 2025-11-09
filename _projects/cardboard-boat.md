@@ -4,6 +4,8 @@ title: Cardboard Dragon Boat
 description: Cardboard Dragon Boat 15% Replica
 technologies: [CAD, Hand tools]
 image: /assets/images/cardboard-boat/cardboatboatfinal.jpg
+category: "Personal Projects"
+order: 1
 ---
 
 

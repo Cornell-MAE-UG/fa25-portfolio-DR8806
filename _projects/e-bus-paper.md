@@ -4,6 +4,8 @@ title: E-Bus Mathematical Model
 description: Optimization of Electric Bus Purchases by Metropolitian Cities
 technologies: [MATLAB, R]
 image: /assets/
+category: "Math Model Papers"
+order: 1
 ---
 
 ## Summary
