@@ -25,8 +25,8 @@ The goal for ARG26 was optimization. While there are many ways to build a functi
 
 - Led design of the ARG26 jig plate, including geometry, material selection, and fastener choice  
 - Identified and resolved ergonomic and functional issues from the ARG25 design  
-- Redesigned the baseplate to improve welding access while reducing overall jig size by **26%**  
-- Consolidated components, reducing total part count by **27%**  
+- Redesigned the baseplate to improve welding access while reducing overall jig size by
+- Consolidated components, reducing total part count by 
 - Anticipated improvements in cost, manufacturing time, and ease of use
 - Quantified misalignment possibilities of threading and determined tolerance feasibility 
 
@@ -46,16 +46,15 @@ Drafts
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="{{ '/assets/images/fsae-suspension/fsae-jigplate-alljigs.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/fsae-jigplate-alllinks.png' | relative_url }}" width="200px">
-  <img src="{{ '/assets/images/fsae-suspension/image4.png' | relative_url }}" width="200px">
+    <img src="{{ '/assets/images/fsae-suspension/jigplate-sketches.png' | relative_url }}" width="200px">
+  <img src="{{ '/assets/images/fsae-suspension/image13.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image9.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image10.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image12.png' | relative_url }}" width="200px">
-  <img src="{{ '/assets/images/fsae-suspension/image13.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image16.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image19.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image20.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/fsae-suspension/image22.png' | relative_url }}" width="200px">   
-  <img src="{{ '/assets/images/fsae-suspension/jigplate-sketches.png' | relative_url }}" width="200px">
 
 
 </div>
