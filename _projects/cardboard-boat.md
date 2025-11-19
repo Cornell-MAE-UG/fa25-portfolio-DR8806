@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Cardboard Dragon Boat
+title: Six Feet Long Cardboard Dragon Boat Model
 description: Cardboard Dragon Boat 15% Replica
 technologies: [CAD, Hand tools]
 image: /assets/images/cardboard-boat/cardboatboatfinal.jpg
@@ -9,16 +9,10 @@ order: 1
 ---
 
 
-## Scaled Dragon Boat Model – Personal Build (Winter 2024)  
-**Dimensions:** 1.86 meters (6.1 feet), representing 15% of a standard 12.49-meter dragon boat
+I built a 6.1 feet long replica (15% scale) of a traditional 20-person dragon boat with only repurposed household materials and no tape or glue used. This was a project of limitations. How do you build a STABLE structure with old Amazon/USPS cardboard boxes, collected wine corks, marshmellow sticks, and skewers? Considering the six feet length, the boat undergoes a lot of bending stress. I got creative, creating small square like cardboard cutouts to slide onto the sticks and skewers to create a strong beam by increasing area moment of inertia. What about the compression that is underwent during bending? Put corks, because have high compression strength, those can be used to counteract the compression underwent during bending. How do we fasten things together without tape or glue? I got creative with cardboard locking mechanisms and creative usage of string. How to mass manufacture pieces I need? How do you optimize an Xacto knife cutouts. And many more considerations. 
 
-During the winter of 2024, a 15% scale replica of a traditional 20-person dragon boat was designed and constructed using only repurposed household materials. The final model measured 1.86 meters in length and was built entirely without purchasing new supplies.
+What was gained? Lots of rapid prototyping and iteration. Using CAD software to create schematics and cross sections and ratios. 3D printing for proof of concept. A lot of hands on building. This was also a passion project, because I am a big dragon boater, and can even steer these 20 people boats! See some pictures below! 
 
-Basic CAD software was used to create detailed top-down schematics and cross-sectional views to guide the build. Hundreds of W-shaped cardboard cross-sections and spacers were hand-cut to form the internal frame. Marshmallow sticks were used for their flexural strength to maintain the boat’s curvature, reinforced with wine corks, gardening string, and rubber bands. The exterior was finished with gold-wrapped cardboard salvaged from snack packaging.
-
-A separate miniature 3D-printed version of the boat was also designed and printed, providing a compact physical reference for scale and proportion.
-
-After completion, both models were brought to Cornell and shared with members of the university’s Dragon Boat Club. The project combined digital design, hands-on fabrication, and creative reuse of materials to recreate a culturally significant form in multiple formats.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
@@ -29,7 +23,7 @@ After completion, both models were brought to Cornell and shared with members of
   <img src="{{ '/assets/images/cardboard-boat/cardboard4.jpg' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/cardboard-boat/cardboard5.jpg' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/cardboard-boat/cardboard6.jpg' | relative_url }}" width="200px">
-  <img src="{{ '/assets/images/cardboard-boat/cardboard7.JPG' | relative_url }}" width="200px">
+  <img src="{{ '/assets/images/cardboard-boat/cardboard7.jpg' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/cardboard-boat/cardboatboatfinal.jpg' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/cardboard-boat/dragonboatsteer.png' | relative_url }}" width="200px">
   <img src="{{ '/assets/images/cardboard-boat/dragonboatrace1.png' | relative_url }}" width="200px">

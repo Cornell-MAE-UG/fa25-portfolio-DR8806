@@ -9,7 +9,7 @@ permalink: /resume/
 **Portfolio:** [tinyurl.com/davisrattanavijai-portfolio](https://tinyurl.com/davisrattanavijai-portfolio)
 
 <iframe 
-    src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/DavisRattanavijai_Resume.pdf" 
+    src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/DavisRattanavijai_Resume_November2025.pdf" 
     width="100%" 
     height="600px" 
     style="border:none;">
