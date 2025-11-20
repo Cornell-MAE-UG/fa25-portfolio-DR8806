@@ -20,16 +20,16 @@ Outside of academics and engineering, I love playing soccer, skiing, biking and 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
   <!-- Group 1 -->
-  <img src="{{ '/assets/images/dragonboat.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/racecar.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/soccer.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/lobster.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/dragonboat.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/racecar.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/soccer.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/lobster.jpg' | relative_url }}" width="300px">
 
   <!-- Group 2 -->
-  <img src="{{ '/assets/images/groupdinner.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/machining.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/mahjong.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/midnightfc.jpg' | relative_url }}" width="300px">
-  <img src="{{ '/assets/images/racinglaugh.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/groupdinner.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/machining.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/mahjong.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/midnightfc.jpg' | relative_url }}" width="300px">
+  <img src="{{ '/assets/images/aboutme/racinglaugh.jpg' | relative_url }}" width="300px">
 
 </div>
