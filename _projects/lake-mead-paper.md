@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Lake Mead Risk Paper
+title: Spatiotemporal Analysis of Lake Mead's Water Levels
 description: Optimization of Electric Bus Purchases by Metropolitian Cities
 technologies: [Python, Symbolic Regression, Time-Series Modeling]
 image: /assets/
@@ -8,7 +8,9 @@ category: "Math Model Papers"
 order: 2
 ---
 
-I led a five-person team that engineered a comprehensive, data-driven system to forecast hydroelectric power losses from Hoover Dam caused by Lake Mead’s declining water levels—earning 3rd place and a $10,000 award out of roughly 260 teams in the international Modeling the Future Challenge. Using gigabytes of NASA GLDAS satellite and NOAA climate data, I built and trained symbolic regression models in HeuristicLab to uncover the nonlinear relationships between environmental and consumption variables driving water depletion, achieving a strong R² of 0.76. I then integrated these results with Facebook Prophet forecasts to project multiyear declines in water volume and hydroelectric output through 2030, translating the findings into quantitative energy, economic, and environmental risk assessments. My model combined geospatial satellite data processing, time-series forecasting, and regression analysis to produce actionable policy recommendations for sustainable water and energy management across the American Southwest.
+**Keywords:** Python, R Programming, 3rd Place, $10,000 Scholarship Prize, 25-page Paper, MTFC, Math Model, Lake Mead, Hoover Dam Electric Generation, NASA GLDAS Data, Symbolic Regression, Facebook Prophet Model, Multicollinearity, Time-series Forecast
+
+**Summary:** Led my team to the 3rd place, with $10,000 scholarship award, with our paper ranking in the top 1% of 267 global submissions. Developed a model pipeline with machine learning and time series models to forecast electricity generation of hoover dam into 2030 with spatiotemporal analysis of Lake Mead's environmental factors and trends in water consumption. 
 
 <iframe 
     src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/math-modeling-papers/MTFC2023_Colorado_River_Paper.pdf" 
@@ -16,4 +18,7 @@ I led a five-person team that engineered a comprehensive, data-driven system to 
     height="600px" 
     style="border:none;">
 </iframe>
+
+**Snip Bits**
+
 

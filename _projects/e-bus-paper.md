@@ -1,6 +1,6 @@
 ---
 layout: project
-title: E-Bus Mathematical Model
+title: Electric Bus Optimization Model
 description: Optimization of Electric Bus Purchases by Metropolitian Cities
 technologies: [MATLAB, R]
 image: /assets/
@@ -25,9 +25,9 @@ order: 1
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="{{ '/assets/images/project-images/ebus-bostonmap.png' | relative_url }}" width="200px">
-  <img src="{{ '/assets/images/project-images/ebus-model-diagram.png' | relative_url }}" width="200px">
-  <img src="{{ '/assets/images/project-images/ebus-math.png' | relative_url }}" width="200px">
+  <img src="{{ '/assets/images/project-images/ebus-bostonmap.png' | relative_url }}" width="500">
+  <img src="{{ '/assets/images/project-images/ebus-model-diagram.png' | relative_url }}" width="500">
+  <img src="{{ '/assets/images/project-images/ebus-math.png' | relative_url }}" width="500">
 
 </div>
 

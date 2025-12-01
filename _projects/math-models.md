@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Other Papers
+title: All Papers
 description: Math Modeling Papers from competitions
 technologies: [Python, R, MATLAB, Excel, LaTeX]
 image: /assets/images/math-modeling-shell.jpg

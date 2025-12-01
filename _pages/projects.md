@@ -7,7 +7,7 @@ permalink: /projects/
 <div class="projects-container">
 
   <div class="category-section math-section">
-    <h2>Math Modeling Papers</h2>
+    <h2>Math Modeling</h2>
     <ul class="project-list">
       {% assign math_projects = site.projects | where: "category", "Math Model Papers" | sort: "order" %}
       {% for project in math_projects %}
