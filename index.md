@@ -8,7 +8,11 @@ title: Davis Rattanavijai
 
 ![Profile Picture]({{ "assets/images/dr653_headshot2.jpeg" | relative_url }}){: class="profile-image"}
 
-My name is {{ site.name }}, and I’m a sophomore studying Mechanical Engineering and Electrical and Computer Engineering at Cornell University’s College of Engineering. I’m both a first principles thinker and a hands-on engineer who enjoys understanding the physics behind systems and applying that knowledge in practical builds. Check out <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/resume/" | relative_url }}">resume</a>!
+Hi, I'm {{ site.name }}. I’m a sophomore studying Mechanical Engineering and Electrical and Computer Engineering at Cornell University’s College of Engineering. 
+
+
+
+I’m both a first principles thinker and a hands-on engineer who enjoys understanding the physics behind systems and applying that knowledge in practical builds. 
 
 My current practical experience comes from Cornell FSAE Racing, where I work on the suspension subteam for our electric race car, am on track for 100 hours of machining this semester, and have gained exposure to many other mechanical and electrical systems on the vehicle. I also contribute to the team’s business subteam and have non-technical strengths working at a bank last summer. I’m broadly interested in engineering fields including aerospace, automotive, RF systems, and other electrical fields. 
 
