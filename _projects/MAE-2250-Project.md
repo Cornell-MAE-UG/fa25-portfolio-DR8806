@@ -91,8 +91,12 @@ https://news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-gra
 ---
 
 ### Full PDF
-<iframe src="/assets/client_pitch1.pdf" width="100%" height="600px"></iframe>
-
+<iframe 
+    src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/client_pitch.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border:none;">
+</iframe>
 ---
 
 ## Functional Prototype
@@ -123,23 +127,23 @@ Our concept is a filtering brush mechanism designed to remove SLF from grapes du
 ---
 
 **Design Illustration**  
-![design-intent-placeholder](assets/images/design_intent.png)
+![design-intent-placeholder](https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/design_intent.png)
 
 ---
 
 **Assembly Instructions**  
 
 1. Assemble the mounts. Put supports together and use CA glue to secure.  
-![assembly1](assets/images/assembly1.png)
+![assembly1](https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/assembly1.png)
 2. Cut the oak rod down to 12 in. Space the custom-cut brush supports evenly throughout the oak rod and use CA glue to secure in place.  
 3. Use a rubber mallet to secure the ball bearings on either end of the oak rod. Secure either side of both bearings with hot glue.  
-![assembly2](assets/images/assembly2.png)
+![assembly2](https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/assembly2.png)
 4. Center drill the oak rod and insert a hex bolt. After ensuring concentricity, secure the hex bolt in place with CA glue.  
 5. Cut the strip brushes to 3 pieces of 20 in. length. Thread the strip brushes through the brush supports, winding them a quarter-turn between each support.  
-![assembly3](assets/images/assembly3.png)
+![assembly3](https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/assembly3.png)
 6. Press the ball bearings into the mounts at an equal height on either end. Ensure the shaft can rotate freely without interference from the brushes and trim as needed.  
 7. Mount drill to brush assembly by tightening drill chuck to protruding hex bolt. Drive at varying speeds.  
-![assembly4](assets/images/assembly4.png)
+![assembly4](https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/assembly4.png)
 
 ---
 
@@ -187,4 +191,9 @@ We will measure our criteria by building a mock conveyor belt and modelling grap
 ---
 
 ### Full PDF
-<iframe src="/assets/functional_prototype.pdf" width="100%" height="600px"></iframe>
+<iframe 
+    src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/functional_prototype.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border:none;">
+</iframe>
