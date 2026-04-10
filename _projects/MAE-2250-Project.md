@@ -127,6 +127,8 @@ Our concept is a filtering brush mechanism designed to remove SLF from grapes du
 ---
 
 **Design Illustration**  
+<img src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/assembly1.png" width="400">
+
 ![design-intent-placeholder](https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/images/design_intent.png)
 
 ---
