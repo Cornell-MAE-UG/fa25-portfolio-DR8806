@@ -8,161 +8,175 @@ category: "Personal Projects"
 order: 5
 ---
 
-# Portfolio Project Page
-
 ## Table of Contents
 - [Client Pitch](#client-pitch)
 - [Functional Prototype](#functional-prototype)
 
 ---
 
+# Portfolio
+
+[Client Pitch](#client-pitch)  
+[Functional Prototype](#functional-prototype)
+
+---
+
 ## Client Pitch
 <a id="client-pitch"></a>
 
-### Post Harvest Spotted Lanternfly Removal
+Client Outline & Pitch
 
-**Team:** DEAd heAD  
-**Client(s):** Cornell CALS Extension / E&J Gallo Winery / National Grape  
+Post Harvest Spotted Lanternfly Removal 
 
----
+Team: DEAd heAD  
+Client(s): Cornell CALS Extension / E&J Gallo Winery / National Grape 
 
-### Problem Statement
-Spotted Lanternflies (SLF) are devastating wineries and grape processors in New York and nearby regions, with losses reaching $8.8 million in three years. During high-volume harvest periods, post-harvesting facilities must remove SLF quickly, yet current methods continue to miss insects, risking contamination and regulatory noncompliance which can lead to financial and operational strain.
 
----
+Problem Statement: Spotted Lanternflies (SLF) are devastating wineries and grape processors in New York and nearby regions, with losses reaching $8.8 million in three years. During high-volume harvest periods, post-harvesting facilities must remove SLF quickly, yet current methods continue to miss insects, risking contamination and regulatory noncompliance which can lead to financial and operational strain. 
 
-### Impact
-Solving SLF contamination would protect the wine supply chain, helping growers preserve crop value while enabling processors to increase throughput, reduce labor, and lower losses. This strengthens the agricultural economy and ensures consistent supply for consumers.
 
----
+Impact: Solving the SLF contamination would protect the wine supply chain, helping growers in New York preserve crop value while enabling processors to increase throughput, reduce labor, and lower losses, stabilizing supply for distributors and retailers. This keeps regional producers competitive, strengthens the broader agricultural economy, and ensures millions of consumers continued access to quality wine. 
 
-### Concept A (Primary) – Filtering Brushes
-A car wash-like system where rotating brushes remove SLF from grapes on a conveyor belt. Brush stiffness is tuned to remove SLF while minimizing grape damage.
 
-**User Flow:**
-1. Grapes enter conveyor system  
-2. Grapes pass through brush module where SLF are removed  
+Concept A (Primary) - Filtering Brushes: A car wash-like machine where rotors will brush off SLF on the conveyor belt. Brushes will be tuned in stiffness to be able to remove SLF, minimizing product loss.  
 
-**Advantages:**
-- Mechanically simple  
-- Easy integration into existing systems  
+How it would be used (user flow): 
 
-**Proof of Concept:**
-- Motor-driven spinning brushes  
-- Testing with modeled grapes and SLF using force measurements  
+Step 1: Grapes enter the post-processing conveyor belt.  
+Step 2: Product passes through brush module, where brushes knock SLF off of harvested grapes. 
 
----
+Why it’s better than the status quo: This is a mechanically simple mechanism that could prove to be effective, and it’s easily integrated into pre-existing post-harvest processing conveyors.  
 
-### Concept B (Secondary) – Wind-Sorting Unit
-A controlled airflow system that separates lighter SLF from heavier grapes.
+End-of-semester proof-of-concept: A simple motor mechanism with spinning brushes, testing by modeling grapes and SLF with a force gauge to test the force of the brushes. 
 
-**User Flow:**
-1. Grapes enter conveyor  
-2. Airflow removes SLF from stream  
 
-**Advantages:**
-- No physical contact → less grape damage  
-- Easy automation  
+Concept B (Secondary) - Wind-Sorting Unit: A controlled airflow module that removes lighter SLF from heavier grapes moving along a conveyor belt. 
 
-**Proof of Concept:**
-- Airflow system using fans/air guns  
-- Testing with simulated SLF and airspeed measurements  
+How it would be used (user flow): 
 
----
+Step 1: Grapes enter on a conveyor belt.  
+Step 2: Belt passes through the wind-sorting unit, where airflow blows SLF off of grape stream. 
 
-### Key Risks / Unknowns
-- Brush clogging or jamming  
-- Airflow tuning challenges  
-- Potential grape damage or loss  
+Why it’s better than the status quo: No direct contact with grapes is needed, so grapes will not be harmed during the process. The unit is easy to automate and integrate with existing processing equipment.  
 
----
+End-of-semester proof-of-concept: An airflow unit that uses small air guns or fans to blow SLF off the grapes. Testing by simulating SLF on grapes and using airspeed sensors to measure the force of air.  
 
-### Questions for Client
-1. Are SLF intact or fragmented during processing?  
-2. What are layout and integration constraints?  
-3. What types of grape damage are least acceptable?  
 
----
+Key Risks / Unknowns 
+● For Concept A, there could be clogging due to jamming on the conveyor belt or on the brushes.  
+We will compare with existing designs and test with simulated grapes and SLF. 
 
-### References
-- https://news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions
+● For Concept B, airflow intensity and direction will need to be tuned to ensure grape quality does not degrade. We will test this by simulating grape processing under varied conditions. 
+
+● Both proposed solutions include the possibility of excessive grape removal or damage. We will test this by experimenting with different brush stiffnesses, rotation speeds, and airflow intensities. 
+
+
+Questions for the Client 
+
+1. Are SLF entering post-harvest processing primarily alive and intact, or dead and fragmented within the grape stream/slush?  
+Decision affected: Determines whether mechanical separation is viable or if removal must occur earlier, since fragmented SLF may be harder to remove.  
+
+2. What does a typical processing layout look like, and where would sanitation, space, or workflow constraints limit adding equipment?  
+Decision affected: Defines integration limits so the design fits operational and regulatory realities, and supports solutions that can scale across facilities without major infrastructure changes.  
+
+3. Which forms of product damage are least acceptable (juice release, skin breakage, berry loss, or cluster disruption)? Please rank if possible.  
+Decision affected: Sets force and contact limits, guiding mechanism selection and tuning so the design minimizes losses within acceptable damage tolerances. 
+
+
+References 
+
+https://news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions
+
 
 ---
 
 ## Functional Prototype
 <a id="functional-prototype"></a>
 
-### Design Overview
-A rotating brush mechanism mounted above a conveyor removes SLF from grapes. The brush applies enough force to remove insects while minimizing grape damage.
+O5: Functional Prototype
 
----
+Functional Prototype  
+Design Documentation  
 
-### Components
-- Laser-cut acrylic mounts and supports  
-- Oak rod (shaft)  
-- Strip brushes (various lengths)  
-- Ball bearings  
-- Hex bolt (drive connection)  
+Our concept is a filtering brush mechanism designed to remove SLF from grapes during the harvesting processing. Grapes will travel along the harvesting machine’s conveyor belt and pass through a rotating brush placed above. The brush will lightly contact the product stream, applying enough force to knock off the SLF from the grapes while minimizing product loss.  
 
----
 
-### Assembly Summary
-1. Assemble mounting structure  
-2. Cut and prepare shaft  
-3. Attach brush supports  
-4. Install bearings and shaft  
-5. Attach strip brushes in spiral pattern  
-6. Mount and connect to drill motor  
+Component Quantity Fabrication/Purchase 
 
----
+| Component | Quantity | Fabrication/Purchase |
+|----------|--------|----------------------|
+| Mounting Plate | 2 | In house, Laser Cut Acrylic |
+| Mounting Base | 2 | In house, Laser Cut Acrylic |
+| Mounting Support | 4 | In house, Laser Cut Acrylic |
+| Oak Rod, 36" Long, 1" Diameter | 1 | McMaster, 96825K82 |
+| Brush Support | 4 | In house, Laser Cut Acrylic |
+| Hex Bolt 4.5mm | 1 | In house, Taylor Design Studio |
+| Strip Brush (1" height) | 1 | McMaster, 1469N21 |
+| Strip Brush (2" height) | 1 | McMaster, 1469N22 |
+| Strip Brush (3" height) | 1 | McMaster, 1469N23 |
+| Steel Ball Bearing (R16) | 2 | McMaster, 1469N23 |
 
-### Testing
+Illustration for design intent:  
+![design-intent-placeholder](assets/design-intent.png)
 
-#### Test 1: Brush Length
-- **1” (stiff):** High SLF removal but high grape damage  
-- **2”:** Moderate balance, some displacement  
-- **3” (best):** Effective removal with minimal grape disruption  
 
-**Conclusion:** 3” brush chosen  
+Assembly Instructions:  
 
----
+1. Assemble the mounts. Put supports together and use CA glue to secure.  
 
-#### Test 2: Speed & Direction
+2. Cut the oak rod down to 12 in. Space the custom-cut brush supports evenly throughout the oak rod and use CA glue to secure in place.  
 
-| Direction | Speed | SLF Removed | Stability |
-|----------|------|------------|----------|
-| Clockwise | ~500 RPM | 3/8 | Stable |
-| Clockwise | ~2000 RPM | 6/8 | Some instability |
-| Counterclockwise | ~500 RPM | 0/8 | Stable |
-| Counterclockwise | ~2000 RPM | 0/8 | Unstable |
+3. Use a rubber mallet to secure the ball bearings on either end of the oak rod. Secure either side of both bearings with hot glue.  
 
-**Key Takeaways:**
-- Clockwise rotation is effective  
-- High speeds reduce stability  
-- Mounting needs reinforcement  
+4. Center drill the oak rod and insert a hex bolt. After ensuring concentricity, secure the hex bolt in place with CA glue.  
 
----
+5. Cut the strip brushes to 3 pieces of 20 in. length. Thread the strip brushes through the brush supports, winding them a quarter-turn between each support.  
 
-### Success Criteria
-- ≤ 5% grape damage  
-- ≥ 90% SLF removal  
-- Stable up to 2500 RPM (≤ 5mm movement)  
-- Works across configurations  
-- Conveyor speed of 1 m/s  
+6. Press the ball bearings into the mounts at an equal height on either end. Ensure the shaft can rotate freely without interference from the brushes and trim as needed.  
 
----
+7. Mount drill to brush assembly by tightening drill chuck to protruding hex bolt. Drive at varying speeds.  
 
-### Evaluation Plan
-- Simulated conveyor testing  
-- Measure:
-  - SLF removal rate  
-  - Grape damage  
-  - RPM stability  
-  - Structural movement  
 
----
+Design Tests  
 
-### Optional PDF Links
-- [Client Pitch PDF](/assets/client_pitch.pdf)
-- [Functional Prototype PDF](/assets/functional_prototype.pdf)
+Test 1: Brush Lengths  
 
+Brush Length Observations 
+
+| Brush Length | Observations |
+|-------------|-------------|
+| 1” (shortest, stiffest) | Bristles were highly rigid and transferred significant force upon contact... |
+| 2” | Provided a moderate balance between stiffness and flexibility... |
+| 3” (longest, least stiff) | Bristles exhibited greater flexibility... |
+
+Based on these observations, it is clear that the 3” brush was the most effective.  
+
+
+Test 2: Maximum Rotation Speed and Brush Direction Test  
+
+| Driving Direction | Speed | SLF Removed | Movement |
+|------------------|------|------------|----------|
+| Clockwise | ~500 RPM | 3/8 | 1-2mm |
+| Clockwise | ~2000 RPM | 6/8 | >5mm |
+| Counterclockwise | ~500 RPM | 0/8 | 1-2mm |
+| Counterclockwise | ~2000 RPM | 0/8 | >5mm |
+
+
+Conclusion:  
+For drill speeds higher than the first setting, our mounts moved > 5mm...  
+
+
+Success Criteria  
+
+● The brushes should not damage, crush, or visibly harm more than 5% of grapes.  
+
+● The brushes should be tuned to remove at least 90% of SLF from grapes in a single pass.  
+
+● The system should be able to withstand rotations of up to 2500 rpm, without shifting more than 5mm.  
+
+● The brush geometry and layout should be able to clear 90% of debris regardless of brush length.  
+
+● The system should be able to process grapes on a conveyor belt at a speed of 1 m/s.  
+
+
+We will measure our criteria by building a mock conveyor belt and modelling grapes and SLF as our product stream...
