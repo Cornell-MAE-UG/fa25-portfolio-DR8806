@@ -11,7 +11,7 @@ order: 5
 # Portfolio
 
 **Jump to:**  
-[Client Pitch](#client-pitch) · [Functional Prototype](#functional-prototype)
+[Client Pitch](#client-pitch) · [Functional Prototype](#functional-prototype)  · [Client Report](#client-report)
 
 ---
 
@@ -193,6 +193,16 @@ We will measure our criteria by building a mock conveyor belt and modelling grap
 ### Full PDF
 <iframe 
     src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/functional_prototype.pdf" 
+    width="100%" 
+    height="600px" 
+    style="border:none;">
+</iframe>
+
+## Final Client Report
+<a id="client-report"></a>
+
+<iframe 
+    src="https://cornell-mae-ug.github.io/fa25-portfolio-DR8806/assets/ODP6_Client_Report.pdf" 
     width="100%" 
     height="600px" 
     style="border:none;">
